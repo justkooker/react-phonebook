@@ -1,0 +1,8 @@
+.contactList {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+.noContacts {
+  color: rgb(61, 22, 233);
+}
